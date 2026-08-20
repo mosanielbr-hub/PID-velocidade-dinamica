@@ -1,3 +1,5 @@
+Aqui está o texto do README.md atualizado com as referências à nova licença (Creative Commons CC BY-NC 4.0):
+
 Controle PID com Velocidade Dinâmica - LEGO SPIKE Prime
 Este repositório contém a implementação de um algoritmo de Controle PID (Proporcional, Integral e Derivativo) com Velocidade Dinâmica desenvolvido para robôs seguidores de linha utilizando o LEGO Education SPIKE Prime.
 
@@ -68,10 +70,12 @@ Atualiza lasterror = error.
 
 README.md: Documentação explicativa do algoritmo.
 
-LICENSE: Licença MIT de uso livre.
+LICENSE: Licença Creative Commons (CC BY-NC 4.0).
 
 teste_pid.llsp3: Arquivo original do projeto para importar no aplicativo LEGO SPIKE.
 
 📜 Licença
 
-Este projeto é de código aberto sob a licença MIT. Livre para uso em competições (FLL, OBR) e projetos educacionais.
+Este projeto é de código aberto e está licenciado sob a Creative Commons Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0).
+
+Você é livre para utilizar, adaptar e compartilhar este código para fins educacionais ou de estudo, desde que dê o devido crédito ao autor. É proibido o uso ou venda comercial deste projeto.
